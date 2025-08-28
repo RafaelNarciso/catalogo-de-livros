@@ -46,8 +46,7 @@ public class Livro {
         this.autor = autor;
     }
 
-    public Integer getAnoPublicacao() {
-        return anoPublicacao;
+    public Integer getAnoPublicacao() {return anoPublicacao;
     }
 
     public void setAnoPublicacao(Integer anoPublicacao) {
