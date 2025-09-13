@@ -47,7 +47,7 @@ O projeto serve como exemplo prático de desenvolvimento web em Java, demonstran
 
 ---
 
-## 2. Metodologia
+## 2.  Metodologia
 
 ### 2.1 Abordagem de Desenvolvimento
 
