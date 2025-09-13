@@ -222,7 +222,7 @@ public class LivroDAO {
         } catch (SQLException e) {
             System.err.println("Erro ao atualizar livro: " + e.getMessage());
         }
-        return false; //  Não conseguiu atualizar
+        return false; //  Não conseguiu
     }
 
     /**

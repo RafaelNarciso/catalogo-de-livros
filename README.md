@@ -235,7 +235,7 @@ A aplicação segue o padrão **MVC (Model-View-Controller)** com a seguinte est
 ```
 src/
 ├── com/catalogo/
-│   ├── model/         # Entidades (Model)
+│   ├── model/         # Entidades ( Model )
 │   │   └── Livro.java
 │   ├── dao/           # Acesso a dados
 │   │   └── LivroDAO.java
